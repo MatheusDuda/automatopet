@@ -39,3 +39,6 @@ O autômato simula o processo em etapas como:
 
 Cada etapa representa um estado, e as transições ocorrem com base em eventos do sistema.
 
+![Diagrama do Autômato](image.png)
+
+
